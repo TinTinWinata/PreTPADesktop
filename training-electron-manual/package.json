@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "electron": "^18.2.2"
+  },
+  "name": "training-electron-manual",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
